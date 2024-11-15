@@ -2,7 +2,7 @@ setuptools
 numpy
 matplotlib
 scipy
-pyopengl
+pyopengl == 3.1.5
 pillow
 pyzmq
 pyyaml
